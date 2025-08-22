@@ -1,0 +1,87 @@
+Asset,Status,Count
+GasStations,Digtized,31
+Service_Stations,Digtized,38
+Nursery,Digtized,1
+TrainingCenters,Digtized,13
+College,Digtized,2
+University,Digtized,1
+Schools,Digtized,71
+Insurance,Digtized,13
+Banks,Digtized,51
+MoneyExchange,Digtized,19
+ATMs,Digtized,21
+GeologyFormation,Digtized,45
+HealthCenters,Digtized,2
+Pharmacies,Digtized,64
+Hospitals,Digtized,1
+Clinics,Pending,0
+Streams,Digtized,3781
+Afalj,Digtized,49
+Water_Spread,Digtized,3
+Dams,Digtized,2
+Swamp,Digtized,5
+SoilType,Digtized,5
+Tree,Digtized,3304
+Mosques,Digtized,252
+PostOffice,Digtized,6
+Parks,Digtized,14
+Public_Restroom,Digtized,79
+SportField,Digtized,113
+Azabah,Digtized,752
+Resthouse,Pending,0
+Event Halls,Digtized,6
+churches,Digtized,1
+Court,Pending,2
+Cemetery,Digtized,5
+Pet Store,Digtized,1
+Veterinary pharmacy,Digtized,3
+Tomb,Digtized,4
+Gym,Digtized,3
+Government office,Digtized,16
+Museum,Pending,0
+Cave,Pending,0
+Optician,Digtized,3
+Registration office,Digtized,5
+Telecom service provider,Digtized,4
+Construction office,Digtized,47
+Jewelry store,Pending,1
+Photography studio,Digtized,7
+cleaning services,Digtized,6
+Cosmetics store,Digtized,8
+Car rental agency,Digtized,33
+Florist,Digtized,4
+Garden Center,Digtized,4
+manpower recruitment office,Digtized,11
+Printing & Stationery store,Pending,0
+PoliceStation,Digtized,4
+CivilDefenseCenters,Digtized,3
+ParkingLot,Digtized,531
+Street,Pending,0
+BusStops,Digtized,21
+Intersections,Pending,1517
+Roundabout,Digtized,21
+TrafficSignals,Digtized,42
+Bridges,Digtized,2
+SuperMarket,Digtized,27
+Electronics,Digtized,60
+ClothingStore,Digtized,154
+Laudary,Digtized,169
+Homegoods,Digtized,76
+Hardware,Digtized,119
+GroceryStore,Digtized,49
+ShoppingMall,Digtized,8
+Barbershop,Digtized,9
+Tailorshop,Digtized,4
+Hotels,Digtized,68
+Travel_Agencies,Digtized,107
+Beaches,Digtized,10
+TourismAttractions,Pending,10
+LandUse,Pending,0
+Village,Digtized,70
+LightPoles,Digtized,7606
+OTC,Digtized,48
+Manholes,Digtized,1473
+Cafes,Digtized,147
+Butcher,Digtized,20
+Restaurants,Digtized,338
+Bakery,Digtized,41

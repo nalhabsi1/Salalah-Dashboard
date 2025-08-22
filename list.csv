@@ -1,0 +1,90 @@
+Asset_ID,Name 
+GS,GasStations
+SS,Service_Stations
+N,Nursery
+TC,TrainingCenters
+C,College
+U,University
+S,Schools
+I,Insurance
+B,Banks
+ME,MoneyExchange
+A,ATMs
+GF,GeologyFormation
+HC,HealthCenters
+P,Pharmacies
+H,Hospitals
+C,Clinics
+Strm,Streams
+A,Afalj
+WS,Water_Spread
+D,Dams
+SWP,Swamp
+ST,SoilType
+Tre,Tree
+MSQ,Mosques
+PO,PostOffice
+PK,Parks
+PR,Public_Restroom
+SF,SportField
+Azb,Azabah
+CAL,Chalets
+RST,Resthouse
+EH,Event Halls
+cUR,churches
+CUR,Court
+Cem,Cemetery
+PS,Pet Store
+VP,Veterinary pharmacy
+TMB,Tomb
+GYM,Gym
+GVE,Government office
+MSE,Museum
+CVE,Cave
+OTI,Optician
+RGI,Registration office
+TLE,Telecom service provider
+AIA,Apiaries
+CNS,Construction office
+JWE,Jewelry store
+POT,Photography studio
+CS,cleaning services
+CSM,CosmeticsStore
+CR ,Car rental agency
+FOR,Florist
+GC,Garden Center
+mNP,manpower recruitment office
+PS,Printing & Stationery store
+PS,PoliceStation
+CDC,CivilDefenseCenters
+PL,ParkingLot
+SRE,Street
+BS,BusStops
+ITE,Intersections
+RA,Roundabout
+TS,TrafficSignals
+BID,Bridges
+SM,SuperMarket
+EEC,Electronics
+CS,ClothingStore
+LUD,Laudary
+HME,Homegoods
+HRD,Hardware
+GrS,GroceryStore
+SM,ShoppingMall
+BRB,Barbershop
+TIL,Tailorshop
+HTE,Hotels
+TA,Travel_Agencies
+Bch,Beaches
+TA,TourismAttractions
+LU,LandUse
+VLL,Village
+LP,LightPoles
+OTC,OTC
+MNH,Manholes
+CFE,Cafes
+BTC,Butcher
+RST,Restaurants
+BKE,Bakery
+IEO,Import_Export_Office
